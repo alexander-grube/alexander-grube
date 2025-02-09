@@ -1,7 +1,6 @@
 # Hi there, I'm Alex! 👋
 
-🚀 **Software Engineer** passionate about building robust systems and scalable solutions.  
-💡 Enthusiastic about **clean code**, **open-source**, and solving real-world problems through technology.
+🚀 **Software Engineer** passionate about building robust systems and high perfomance solutions
 
 ---
 
