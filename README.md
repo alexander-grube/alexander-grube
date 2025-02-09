@@ -46,6 +46,7 @@
 
 ### Currently Reading
 - **Zero to Production in Rust** by Luca Palmieri
+- **Code Complete 2nd Edition** by Steve McConnell
 
 ---
 
