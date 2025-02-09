@@ -36,6 +36,19 @@
 
 ---
 
+## 📚 Books & Learning
+
+### Read & Applied
+- **Clean Code** by Robert C. Martin
+- **Effective Java** by Joshua Bloch
+- **Write Great Code (Vol. 1 & 2)** by Randall Hyde
+- **Writing an Interpreter in Go** by Thorsten Ball
+
+### Currently Reading
+- **Zero to Production in Rust** by Luca Palmieri
+
+---
+
 ## 📈 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=alexander-grube&theme=dark)](https://git.io/streak-stats)
