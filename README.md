@@ -29,7 +29,7 @@
 ## 🎯 Focus Areas
 
 - **Backend Development** (Java, Go)
-- **Systems Programming** (Rust)
+- **Systems Programming** (Zig, Rust)
 - **High-Performance SQL** (PostgreSQL optimization)
 - **TypeScript Development** (Bun runtime)
 - **Cloud-Native Solutions** (Docker, Kubernetes)
