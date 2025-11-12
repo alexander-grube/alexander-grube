@@ -9,7 +9,7 @@
 ### 🔧 **Languages**
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-%FFDF0000.svg?style=for-the-badge&logo=zig&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-%23DF0000.svg?style=for-the-badge&logo=zig&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sql&logoColor=white)
