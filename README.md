@@ -57,4 +57,4 @@
 
 ---
 
-⭐ **Fun Fact**: I'm currently exploring production ready Rust Code!  
+⭐ **Fun Fact**: I'm currently exploring Zig
